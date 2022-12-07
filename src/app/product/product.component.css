@@ -1,0 +1,26 @@
+p{
+    text-align: center;
+    color: rebeccapurple;
+    font-weight: bold;
+}
+img{
+    width: 50px;
+}
+h4{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: black;
+    display: table;
+    margin: 0px auto 0px auto;
+    padding:15px;
+    font-size:35px;
+    background-color:yellow;
+    color:black;
+   
+    
+}
+.featured{
+    background-color: yellow;
+}
